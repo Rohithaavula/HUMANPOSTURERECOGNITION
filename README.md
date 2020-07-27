@@ -1,1 +1,4 @@
 # HUMANPOSTURERECOGNITION
+
+Computers are getting better at solving some very complex problems (like understanding an image) due to the advances in computer vision. Models are being made wherein, if an image is given to the model, it can predict what the image is about, or it can detect whether a particular object is present in the image or not. These models are known as neural networks (or artificial neural networks) which are inspired by the structure and functionality of a human brain. Deep learning, a subfield of Machine learning is the study of these neural networks and over the time, a number of variations of these networks have been implemented for a variety of different problems. 
+This project uses Data Mining techniques for Video Recognition - given a set of labelled videos, train a model so that it can give a label/prediction for video. Here, the label might represent what is being performed in the video, or what the video is about.
